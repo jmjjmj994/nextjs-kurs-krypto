@@ -1,5 +1,5 @@
-import React from "react";
-import { AppBar, Container, Stack, Toolbar, Typography } from "@mui/material";
+import React from 'react';
+import { AppBar, Container, Stack, Toolbar, Typography } from '@mui/material';
 
 const Header: React.FC = () => {
   return (
